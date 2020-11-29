@@ -17,3 +17,6 @@ __pycache__/
 #*.pkl
 #*.rds
 
+data/Input1_clientes_estructura.csv
+data/Input2_clientes_venta.csv
+data/Input3_clientes_test.csv
